@@ -1,0 +1,21 @@
+{
+    "name": "fruthemes",
+    "displayName": "Fruthemes VSCode Color Themes",
+    "description": "A pack containing multiple VSCode Themes insipired from the fruits color palletes",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Fruthemes - VSCode Color Themes",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Fruthemes - VSCode Color Themes-color-theme.json"
+            }
+        ]
+    }
+}
