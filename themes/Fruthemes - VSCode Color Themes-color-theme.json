@@ -44,7 +44,7 @@
 		"dropdown.border": "#0f0036",
 		"dropdown.foreground": "#FFECDBfd",
 		// Input control
-		// "input.background": "#964859",
+		"input.background": "#3a3053",
 		"input.border": "#0f0036",
 		"input.foreground": "#FFECDB",
 		"input.placeholderForeground": "#FFECDBa0",
@@ -110,7 +110,7 @@
 		// "sideBar.dropBackground": "#191425",
 		"sideBarTitle.foreground": "#FFECDB",
 		// "sideBarSectionHeader.border": "#191425",
-		// "sideBarSectionHeader.background": "#160524",
+		"sideBarSectionHeader.background": "#3a3053",
 		"sideBarSectionHeader.foreground": "#FFECDB",
 		// Minimap
 		// "minimap.findMatchHighlight": "#FFECDB",
