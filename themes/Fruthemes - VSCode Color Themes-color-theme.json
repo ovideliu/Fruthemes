@@ -547,7 +547,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFECDB"
+				"foreground": "#695792",
 			}
 		},
 		{
@@ -557,7 +557,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#FFECDB"
+				"foreground": "#CB429F"
 			}
 		},
 		{
@@ -587,7 +587,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#FFECDB"
+				"foreground": "#0BD5CB"
 			}
 		},
 		{
@@ -607,7 +607,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#FFECDB"
+				"foreground": "#FFD447"
 			}
 		},
 		{
@@ -631,7 +631,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#FFECDB"
+				"foreground": "#00E0B4"
 			}
 		},
 		{

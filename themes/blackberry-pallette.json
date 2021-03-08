@@ -1,0 +1,14 @@
+{
+    "main_color": "#191425",
+    "main_color_dimmed_light": "#241d35",
+    "main_color_dimmed_heavy": "#695792",
+    "main_color_heavy_colored": "#31205a",
+    "accent_color": "#AB9FC9",
+    "text_color": "#FFECDB",
+    "highlight_color": "#F06F8B",
+    "notification_color": "#5EFC8D",
+    "color_1": "#CB429F",
+    "color_2": "#0BD5CB",
+    "color_3": "#FFD447",
+    "color_4": "#00E0B4"
+}
