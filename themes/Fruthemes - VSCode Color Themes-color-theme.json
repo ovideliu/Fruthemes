@@ -72,15 +72,15 @@
 		"progressBar.background": "#FFECDB",
 		// Lists and trees
 		"list.activeSelectionBackground": "#FF646484",
-		// "list.activeSelectionForeground": "#FFECDB",
+		"list.activeSelectionForeground": "#FFECDB",
 		// "list.dropBackground": "#FFECDB",
-		// "list.focusForeground": "#FFECDB",
-		"list.focusBackground": "#FFECDB",
+		"list.focusForeground": "#FFECDB",
+		"list.focusBackground": "#31205A",
 		// "list.highlightForeground": "#FFECDB",
 		"list.hoverBackground": "#191425",
 		// "list.hoverForeground": "#FFECDB",
 		"list.inactiveSelectionBackground": "#ff646444",
-		// "list.inactiveSelectionForeground": "#FFECDB",
+		"list.inactiveSelectionForeground": "#FFECDB",
 		// "list.inactiveFocusBackground": "#FFECDB",
 		// "list.invalidItemForeground": "#FFECDB",
 		// "list.errorForeground": "#FFECDB",
@@ -389,8 +389,8 @@
 		"terminal.ansiRed": "#FE5F55",
 		"terminal.ansiWhite": "#FFECDB",
 		"terminal.ansiYellow": "#FFAD05",
-		"terminal.selectionBackground": "#FFECDB",
-		"terminalCursor.background": "#FFECDB",
+		// "terminal.selectionBackground": "#FFECDB",
+		// "terminalCursor.background": "#FFECDB",
 		"terminalCursor.foreground": "#FFECDB",
 		// Debug colors
 		// "debugToolBar.background": "#FFECDB",
@@ -623,7 +623,7 @@
 				"variable.other.constant"
 			],
 			"settings": {
-				"foreground": "#FED8F5"
+				"foreground": "#FDC3F1"
 			}
 		},
 		{
@@ -633,7 +633,7 @@
 				"constant.other"
 			],
 			"settings": {
-				"foreground": "#FED8F5"
+				"foreground": "#FDC3F1"
 			}
 		},
 		{
@@ -783,7 +783,7 @@
 				"support.constant"
 			],
 			"settings": {
-				"foreground": "#FED8F5"
+				"foreground": "#FDC3F1"
 			}
 		},
 		{
@@ -1081,7 +1081,7 @@
 				"entity.name.function"
 			],
 			"settings": {
-				"foreground": "#FED8F5",
+				"foreground": "#FDC3F1",
 				"fontStyle": ""
 			}
 		},
@@ -1175,7 +1175,7 @@
 			"name": "Variable Function",
 			"scope": "variable.function",
 			"settings": {
-				"foreground": "#FED8F5"
+				"foreground": "#FDC3F1"
 			}
 		},
 		{
@@ -1189,7 +1189,7 @@
 			"name": "Meta Function Call",
 			"scope": "meta.function-call",
 			"settings": {
-				"foreground": "#FED8F5"
+				"foreground": "#FDC3F1"
 			}
 		},
 		{
@@ -1413,7 +1413,7 @@
 				"source.elixir meta.module.elixir entity.name.class.elixir"
 			],
 			"settings": {
-				"foreground": "#FED8F5"
+				"foreground": "#FDC3F1"
 			}
 		},
 		{
@@ -1430,7 +1430,7 @@
 				"source.elixir constant.other.keywords.elixir"
 			],
 			"settings": {
-				"foreground": "#FED8F5"
+				"foreground": "#FDC3F1"
 			}
 		},
 		{
@@ -1553,7 +1553,7 @@
 				"variable.other.readwrite.powershell"
 			],
 			"settings": {
-				"foreground": "#FED8F5"
+				"foreground": "#FDC3F1"
 			}
 		},
 		{
@@ -1598,7 +1598,7 @@
 			"name": "JavaScript Method Declaration e.g. `constructor`",
 			"scope": "meta.method.declaration storage.type.js",
 			"settings": {
-				"foreground": "#FED8F5"
+				"foreground": "#FDC3F1"
 			}
 		},
 		{
@@ -1790,7 +1790,7 @@
 				"markup.heading.setext.2.markdown"
 			],
 			"settings": {
-				"foreground": "#FED8F5"
+				"foreground": "#FDC3F1"
 			}
 		},
 		{
@@ -1853,7 +1853,7 @@
 				"meta.link.inline.markdown punctuation.definition.string"
 			],
 			"settings": {
-				"foreground": "#FED8F5"
+				"foreground": "#FDC3F1"
 			}
 		},
 		{
@@ -1871,7 +1871,7 @@
 				"beginning.punctuation.definition.list.markdown"
 			],
 			"settings": {
-				"foreground": "#FED8F5"
+				"foreground": "#FDC3F1"
 			}
 		},
 		{
@@ -1930,7 +1930,7 @@
 				"meta.function-call.arguments.python"
 			],
 			"settings": {
-				"foreground": "#FED8F5"
+				"foreground": "#FDC3F1"
 			}
 		},
 		{
@@ -1990,7 +1990,7 @@
 				"source.css.sass meta.at-rule variable"
 			],
 			"settings": {
-				"foreground": "#FED8F5"
+				"foreground": "#FDC3F1"
 			}
 		},
 		{
@@ -2070,7 +2070,7 @@
 				"support.class.node.tsx"
 			],
 			"settings": {
-				"foreground": "#FED8F5"
+				"foreground": "#FDC3F1"
 			}
 		},
 		{
@@ -2102,14 +2102,14 @@
 				"meta.decorator punctuation.decorator.tsx"
 			],
 			"settings": {
-				"foreground": "#FED8F5"
+				"foreground": "#FDC3F1"
 			}
 		},
 		{
 			"name": "TypeScript[React] Punctuation Decorators",
 			"scope": "meta.tag.js meta.jsx.children.tsx",
 			"settings": {
-				"foreground": "#FED8F5"
+				"foreground": "#FDC3F1"
 			}
 		},
 		{
@@ -2185,7 +2185,7 @@
 				"meta.method.declaration storage.type.tsx"
 			],
 			"settings": {
-				"foreground": "#FED8F5"
+				"foreground": "#FDC3F1"
 			}
 		},
 		{
