@@ -4,4 +4,9 @@
     "main_color_dimmed_heavy": "#0d0916",
     "main_color_heavy_colored": "#31205a",
     "accent_color": "#AB9FC9",
-    "text_color": "#e9be63"
+    "text_color": "#DEBA71",
+    "spring_green": "#37FF8B",
+    "mint": "#A1E8CC",
+    "lilac": "#BDA0BC",
+    "razzmatazz": "#F61067"
+}
