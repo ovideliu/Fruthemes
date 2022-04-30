@@ -67,13 +67,13 @@
 		//Progress bar
 		"progressBar.background": "#DEBA71",
 		// Lists and trees
-		"list.activeSelectionBackground": "#1b1429",
-		"list.activeSelectionForeground": "#DEBA71",
+		"list.activeSelectionBackground": "#deba7128",
+		"list.activeSelectionForeground": "#cbbdee",
 		// "list.dropBackground": "#DEBA71",
 		"list.focusForeground": "#DEBA71",
-		"list.focusBackground": "#31205A",
-		// "list.highlightForeground": "#DEBA71",
-		"list.hoverBackground": "#1b1429",
+		"list.focusBackground": "#deba7128",
+		"list.highlightForeground": "#37FF8B",
+		"list.hoverBackground": "#deba7112",
 		// "list.hoverForeground": "#DEBA71",
 		"list.inactiveSelectionBackground": "#DEBA7134",
 		"list.inactiveSelectionForeground": "#DEBA71",
@@ -252,7 +252,7 @@
 		// "editorSuggestWidget.border": "#DEBA71",
 		// "editorSuggestWidget.foreground": "#DEBA71",
 		// "editorSuggestWidget.highlightForeground": "#DEBA71",
-		// "editorSuggestWidget.selectedBackground": "#DEBA71",
+		"editorSuggestWidget.selectedBackground": "#deba7130",
 		// "editorHoverWidget.foreground": "#DEBA71",
 		// "editorHoverWidget.background": "#DEBA71",
 		// "editorHoverWidget.border": "#DEBA71",
@@ -273,7 +273,7 @@
 		// "peekViewResult.fileForeground": "#DEBA71",
 		// "peekViewResult.lineForeground": "#DEBA71",
 		// "peekViewResult.matchHighlightBackground": "#DEBA71",
-		// "peekViewResult.selectionBackground": "#DEBA71",
+		"peekViewResult.selectionBackground": "#DEBA71",
 		// "peekViewResult.selectionForeground": "#DEBA71",
 		// "peekViewTitle.background": "#DEBA71",
 		// "peekViewTitleDescription.foreground": "#DEBA71",
@@ -353,6 +353,10 @@
 		// "notificationsErrorIcon.foreground": "#DEBA71",
 		// "notificationsWarningIcon.foreground": "#DEBA71",
 		// "notificationsInfoIcon.foreground": "#DEBA71",
+		// Banner colors
+		// "banner.background": "#DEBA71",
+		// "banner.foreground": "#DEBA71",
+		// "banner.iconForeground": "#DEBA71",
 		// Extensions colors
 		// "extensionButton.prominentForeground": "#DEBA71",
 		// "extensionButton.prominentBackground": "#DEBA71",
@@ -361,10 +365,10 @@
 		// "extensionBadge.remoteForeground": "#DEBA71",
 		// Quick picker colors
 		// "pickerGroup.border": "#DEBA71",
-		// "pickerGroup.foreground": "#DEBA71",
-		"quickInput.background": "#150f24",
-		// "quickInput.foreground": "#DEBA71",
-		// "quickInputTitle.background": "#DEBA71",
+		"pickerGroup.foreground": "#DEBA71",
+		"quickInput.background": "#1b1429",
+		"quickInput.foreground": "#DEBA71",
+		"quickInputTitle.background": "#1b1429",
 		// Integrated Terminal colors
 		"terminal.background": "#150f24",
 		"terminal.border": "#DEBA71",
@@ -441,11 +445,11 @@
 		// "notebook.focusedRowBorder": "#DEBA71",
 		// "notebook.rowHoverBackground": "#DEBA71",
 		// Breadcrumbs colors
-		// "breadcrumb.foreground": "#DEBA71",
+		"breadcrumb.foreground": "#AB9FC9",
 		// "breadcrumb.background": "#DEBA71",
-		// "breadcrumb.focusForeground": "#DEBA71",
-		// "breadcrumb.activeSelectionForeground": "#DEBA71",
-		// "breadcrumbPicker.background": "#DEBA71",
+		"breadcrumb.focusForeground": "#DEBA71",
+		"breadcrumb.activeSelectionForeground": "#DEBA71",
+		"breadcrumbPicker.background": "#1b1429",
 		// Snippets colors
 		// "editor.snippetTabstopHighlightBackground": "#DEBA71",
 		// "editor.snippetTabstopHighlightBorder": "#DEBA71",
@@ -533,6 +537,8 @@
 		// "charts.orange": "#DEBA71",
 		// "charts.green": "#DEBA71",
 		// "charts.purple": "#DEBA71",
+		"keybindingLabel.background": "#DEBA71",
+		"keybindingLabel.foreground": "#1b1429",
 	},
 	"tokenColors": [
 		{
